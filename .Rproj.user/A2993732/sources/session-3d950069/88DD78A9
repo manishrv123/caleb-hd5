@@ -1,0 +1,28 @@
+{
+    "id": "88DD78A9",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1713296431664.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "2680873ea8e149e8a69e721f936fb27d",
+        "name": "sd",
+        "title": "sd",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2931557267616,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1713296431664,
+    "read_only": false,
+    "read_only_alternatives": []
+}
